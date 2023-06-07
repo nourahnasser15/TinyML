@@ -1,8 +1,8 @@
 # TinyML
 
-# TinyML project ()
+# TinyML project for driver drowsiness detetction.
   Project for  TinyML  Subject
-by Norah Aaljlan
+by Norah Nasser Aaljlan
 
 ## Idea of the project
  
