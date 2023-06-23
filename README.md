@@ -4,9 +4,15 @@
   Project for  TinyML  Subject
 by Norah Nasser Aaljlan
 
+when use this code cite our paper
+" Driver Drowsiness Detection Model Using Deep Learning"
+
+https://doi.org/10.3390/s23125696
+
+
 ## Idea of the project
  
-> Note: HomePage is Webproject.html
+design lightweight deep learning models to enablr deploy on IoT devices as microcontroller.
 
 ## Installation
 1- It implement on **Googlecolab** pro.
@@ -15,4 +21,4 @@ by Norah Nasser Aaljlan
 Using Python and many of libraries. 
 
 ## License
-**Not free, and need add the citation of my paper after accept and published **
+**Note: add the citation of my paper **
